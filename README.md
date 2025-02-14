@@ -1,16 +1,11 @@
-# 👋 Hi there,
+Hi, I’m Oluwatobiloba Williams 👋🏽
 
-I'm Tobi Williams a frontend developer with a passion for building fast, scalable, and user-friendly web applications.   
-When I'm not coding, you can find me exploring new technologies, learning new skills, and experimenting with different projects. I'm all about creating innovative solutions that deliver exceptional user experiences.
+I build high-performance frontend applications designed for scalability, efficiency, and maintainability. My work goes beyond UI—I focus on:
 
-**My Expertise**
-Frontend development with JavaScript, ReactJS, and modern frontend tools
-User experience (UX) and user interface (UI) design
-Responsive design and web performance optimization.
+Optimized Performance → Reducing load times & improving user experience.
+State Management → Ensuring data consistency across large-scale applications.
+API Integration & System Efficiency → Connecting frontend logic to real-world applications seamlessly.
 
-**My Tech Stack**
-JavaScript (ES6+), ReactJS, React Hooks, Context API
-Webpack, Babel, CSS frameworks (Bootstrap, Tailwind)
-GraphQL, RESTful APIs, and modern frontend tools
-GitHub, GitLab, Visual Studio Code, Chrome DevTools
+I’ve worked on real-world projects that involve building from scratch, enhancing existing systems, and integrating engineering solutions to improve responsiveness and functionality. My approach is structured, focusing on efficiency, modularity, and long-term maintainability.
 
+📬 Open to collaborations & opportunities in frontend engineering and software development.
