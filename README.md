@@ -1,11 +1,13 @@
-Hi, I’m Oluwatobiloba Williams 👋🏽
+Hi, I’m Oluwatobiloba Williams 👋
 
-I build high-performance frontend applications designed for scalability, efficiency, and maintainability. My work goes beyond UI—I focus on:
+I build scalable, maintainable frontend applications with React, TypeScript, and Next.js, while also focusing on performance, architecture, and problem-solving beyond just UI. I believe in high-value engineering, making use of best practices and modern tools to create seamless user experiences.
 
-Optimized Performance → Reducing load times & improving user experience.
-State Management → Ensuring data consistency across large-scale applications.
-API Integration & System Efficiency → Connecting frontend logic to real-world applications seamlessly.
-
-I’ve worked on real-world projects that involve building from scratch, enhancing existing systems, and integrating engineering solutions to improve responsiveness and functionality. My approach is structured, focusing on efficiency, modularity, and long-term maintainability.
+🚀 Areas of Focus:
+Frontend Engineering: React, Next.js, TypeScript, Tailwind CSS
+State Management: Zustand, React Query
+Performance Optimization: Reducing re-renders, efficient API calls
+System Architecture: Scalable and maintainable design patterns
+Backend: Firebase, Supabase, Node.js
+Version Control & Deployment: Git, GitHub, Vercel
 
 📬 Open to collaborations & opportunities in frontend engineering and software development.
