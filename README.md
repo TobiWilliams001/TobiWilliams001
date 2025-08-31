@@ -1,22 +1,23 @@
 👋 Hi, I’m Oluwatobiloba Amos Williams
 
-I’m a software engineer and computer science student working on systems, automation, and data-driven applications.  
+I'm a Software Engineer focused on building reliable systems, automation tools, and full-stack applications.  
 I enjoy solving problems with code, collaborating on projects, and exploring how technology intersects with markets and data.
 
 🔨 What I Work On
 - Systems & Automation – building reliable workflows and APIs that reduce manual effort  
 - Web Applications – full-stack apps with React, Next.js, Node.js, and databases  
-- Data & Finance Projects – analytics platforms using Python, NumPy, Pandas, and visualization tools  
+- Data & Finance Projects – analytics platforms using Python, NumPy, Pandas, and visualization tools
+
+🔧 What I work with
+- Languages/Frameworks: Python, JavaScript/TypeScript (React, Next.js, Node.js), SQL/NoSQL  
+- Systems & Tools: AWS (EC2, S3), Docker, Git/GitHub, CI/CD  
+- Core Focus: Software engineering, automation, and data-driven applications  
 
 📌 Featured Projects
 - [Quant Finance Analytics](link) – options pricing, risk models, portfolio optimization  
 - [Navii AI Communication](link) – AI-powered translation platform for immigrants (Hackathon MVP)  
-- [Ply Oil Financial Data System](link) – real-time crude oil & FX dashboard with caching & fault tolerance  
-
-🛠️ Skills
-- Languages: Python, JavaScript/TypeScript, SQL, Java (familiar)  
-- Frameworks: React, Next.js, Node.js, Express, Django/FastAPI   
-- Systems: REST APIs, GraphQL, PostgreSQL, MongoDB, AWS (EC2, S3), Docker  
+- [Ply Oil Financial Data System](link) – real-time crude oil & FX dashboard with caching & fault tolerance    
 
 
-🌱 Currently growing as a software engineer while exploring markets & data on the side.  
+🌱 - Strengthening computer science foundations (algorithms, systems, databases).  
+  -  Exploring applications of software engineering in finance and markets
