@@ -1,23 +1,25 @@
-👋 Hi, I’m Oluwatobiloba Amos Williams
+# Oluwatobiloba Amos Williams
 
-I'm a Software Engineer focused on building reliable systems, automation tools, and full-stack applications.  
-I enjoy solving problems with code, collaborating on projects, and exploring how technology intersects with markets and data.
+> Good engineering is ultimately an act of respect for the person who will use what you build.
 
-🔨 What I Work On
-- Systems & Automation – building reliable workflows and APIs that reduce manual effort  
-- Web Applications – full-stack apps with React, Next.js, Node.js, and databases  
-- Data & Finance Projects – analytics platforms using Python, NumPy, Pandas, and visualization tools
+To me, things like clean code, stable infrastructure, and proper error tracking aren't just technical details—they aren't separate from user experience. They are expressions of it.
 
-🔧 What I work with
-- Languages/Frameworks: Python, JavaScript/TypeScript (React, Next.js, Node.js), SQL/NoSQL  
-- Systems & Tools: AWS (EC2, S3), Docker, Git/GitHub, CI/CD  
-- Core Focus: Software engineering, automation, and data-driven applications  
+### Current Engineering Focus
+I am focused on how AI systems are built to actually run. Not the models themselves, but the critical infrastructure surrounding them—ensuring they stay reliable, implementing precise failure detection, and securing what they store at scale.
 
-📌 Featured Projects
-- [Quant Finance Analytics](link) – options pricing, risk models, portfolio optimization  
-- [Navii AI Communication](link) – AI-powered translation platform for immigrants (Hackathon MVP)  
-- [Ply Oil Financial Data System](link) – real-time crude oil & FX dashboard with caching & fault tolerance    
+- **Systems & Backend:** High-performance data pipelines, concurrency management, and local-first architectures.
+- **Persistence & Data Integrity:** Distributed caching, state management, and robust ledger logic.
+- **Environments:** Go (Golang), Python, TypeScript / React Native, SQL.
 
+---
 
-🌱 - Strengthening computer science foundations (algorithms, systems, databases).  
-  -  Exploring applications of software engineering in finance and markets
+### Active Core Infrastructures
+
+- **[Argus Search](https://github.com/TobiWilliams001/Argus)** — The current expression of my AI infrastructure focus. A localized, high-speed semantic intelligence engine built with local-first vector space mechanics and end-to-end data encryption.
+- **[Ply Oil Financial Data System](https://github.com/TobiWilliams001/ply-oil-services
+)** — A production-grade, real-time crude oil and FX backend infrastructure. Implemented a dual-layer caching system and fault-tolerant background data pipelines to manage high-frequency API updates smoothly.
+- **[Quant Finance Platform](https://github.com/TobiWilliams001/quant-finance-platform)** — Systematic backtesting scripts, options pricing models, risk calculation parameters, and portfolio optimization metrics using Python (NumPy, Pandas).
+
+---
+
+📬 Open to collaborations on core backend infrastructure, low-latency financial systems, and performance optimization.
