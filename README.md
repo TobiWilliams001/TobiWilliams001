@@ -2,7 +2,7 @@
 
 > Good engineering is ultimately an act of respect for the person who will use what you build.
 
-To me, things like clean code, stable infrastructure, and proper error tracking aren't just technical details—they aren't separate from user experience. They are expressions of it.
+To me, things like clean code, stable infrastructure, and proper error tracking aren't just technical details, they aren't separate from user experience. They are expressions of it.
 
 ### Current Engineering Focus
 I am focused on how AI systems are built to actually run. Not the models themselves, but the critical infrastructure surrounding them—ensuring they stay reliable, implementing precise failure detection, and securing what they store at scale.
